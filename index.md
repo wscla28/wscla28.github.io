@@ -1,1 +1,1 @@
-frontpage test
+WSCLA is an annual conference devoted to the formal and theoretically-informed linguistic study of the Indigenous languages of North, Central, and South America. The 28th edition will be held at Memorial University of Newfoundland and Labrador.
