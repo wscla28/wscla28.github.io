@@ -1,7 +1,7 @@
 title: WSCLA 28
 logo: false
 email: *TBA*
-description: Workshop on Structure and Constituency in Languages of the Americas
+description: 28th Workshop on Structure and Constituency in Languages of the Americas
 show_downloads: false
 google_analytics: false
 color-scheme: auto
@@ -9,3 +9,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+
+sidebar:
+  - name: Call for papers
+  - icon: false
+  - link: \call
