@@ -13,3 +13,5 @@ plugins:
 sidebar:
   - name: Call for papers
   - link: https://wscla28.github.io/call
+
+github: [metadata]
