@@ -12,5 +12,4 @@ plugins:
 
 sidebar:
   - name: Call for papers
-  - icon: false
-  - link: \call
+  - link: https://wscla28.github.io/call
