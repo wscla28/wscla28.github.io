@@ -16,8 +16,13 @@ sidebar:
     link: /call
   - name: Program
     link: /program
+  - name: Registration
+    link: /registration
+  - name: Local information
+    link: /local
   - name: Contact
     link: /contact
+  
 
   github: [metadata]
   
