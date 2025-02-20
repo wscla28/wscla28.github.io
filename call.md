@@ -20,3 +20,9 @@ Abstracts must conform to the following requirements:
 Authors may submit a maximum of (1) one singly-authored abstract and one jointly-authored abstract, or (2) two jointly-authored abstracts.
 
 Submit you abstract via [EasyAbs](https://easyabs.linguistlist.org/conference/WSCLA28/).
+
+## Schedule
+
++ Submission deadline: Sunday, April 6, 2025
++ Notification of decisions: mid-June
++ Conference: June 16—18, 2025
