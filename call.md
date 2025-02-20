@@ -23,6 +23,6 @@ Submit you abstract via [EasyAbs](https://easyabs.linguistlist.org/conference/WS
 
 ## Schedule
 
-+ Submission deadline: Tuesday, April 6, 2025
++ Submission deadline: Tuesday, April 1, 2025
 + Notification of decisions: by the end of April
 + Conference: June 16--18, 2025
