@@ -12,7 +12,7 @@ plugins:
 
 sidebar:
   - name: Call for papers
-  - link: /call
+    link: /call
 
 github: [metadata]
   
