@@ -13,6 +13,10 @@ plugins:
 sidebar:
   - name: Call for papers
     link: /call
+  - name: Program
+    link: /program
+  - name: Local information
+    link: /local
 
 github: [metadata]
   
