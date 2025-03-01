@@ -7,7 +7,7 @@ WSCLA (Workshop on Structure and Constituency in Languages of the Americas) is a
 ## Invited speakers
 + [Soledad Chango](https://linguistics.mit.edu/user/soley290/) (Massachusetts Institute of Technology)
 + [Megan Harvey](https://maharvey.com/) (William & Mary)
-+ [Andrew Nevins](https://profiles.ucl.ac.uk/12006-andrew-nevins) (UCL)
++ [Andrew Nevins](https://profiles.ucl.ac.uk/12006-andrew-nevins) (University College London)
 + [Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos/home/) (University of Austin)
 
 *We acknowledge that the lands on which Memorial University’s campuses are situated are in the traditional territories of diverse Indigenous groups, and we acknowledge with respect the diverse histories and cultures of the Beothuk, Mi’kmaq, Innu, and Inuit of this province.*
