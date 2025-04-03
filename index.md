@@ -2,12 +2,6 @@
 layout: default
 ---
 
-WSCLA (Workshop on Structure and Constituency in Languages of the Americas) is an annual conference dedicated to the formal and theoretically-informed linguistic study of Indigenous languages of North, Central, and South America. The 28th edition will be held at [Memorial University of Newfoundland](https://www.mun.ca/linguistics/) on June 16--18, 2025.
-
-## Invited speakers
-+ [Soledad Chango](https://linguistics.mit.edu/user/soley290/) (Massachusetts Institute of Technology)
-+ [Megan Harvey](https://maharvey.com/) (William & Mary)
-+ [Andrew Nevins](https://profiles.ucl.ac.uk/12006-andrew-nevins) (University College London)
-+ [Wesley dos Santos](https://sites.google.com/berkeley.edu/wesleysantos/home/) (University of Austin)
+Due to unforeseen circumstances, we regret to announce the postponement of WSCLA 28, originally scheduled to be held 16-18 June, 2025. We apologise for any inconvenience this may cause and hope for your understanding as we work to reschedule the conference, with our intention is to hold it during the Fall of 2025. Please monitor this page for updates, and we look forward to providing revised dates and details in the near future.
 
 *We acknowledge that the lands on which Memorial University’s campuses are situated are in the traditional territories of diverse Indigenous groups, and we acknowledge with respect the diverse histories and cultures of the Beothuk, Mi’kmaq, Innu, and Inuit of this province.*
